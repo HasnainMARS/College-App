@@ -1,19 +1,4 @@
-# app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 # output
 # Firstsecreen
@@ -21,6 +6,9 @@ samples, guidance on mobile development, and a full API reference.
 
 # secno2
 ![WhatsApp Image 2023-09-07 at 8 36 38 PM](https://github.com/HasnainMARS/College-App/assets/95080871/771f58d7-3751-45d1-a4b5-17923bd42186)
+# landingpage
+![WhatsApp Image 2023-09-07 at 8 33 24 PM](https://github.com/HasnainMARS/College-App/assets/95080871/ce877270-944b-4b22-bc3c-23b8f425aeab)
+
 # drower
 
 ![WhatsApp Image 2023-09-07 at 8 33 02 PM](https://github.com/HasnainMARS/College-App/assets/95080871/1fd109f7-e4bd-4692-99f1-ddff86fb5df5)
